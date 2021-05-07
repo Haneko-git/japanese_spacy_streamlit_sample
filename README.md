@@ -1,3 +1,2 @@
-# japanese_spacy_streamlit_sample
-japanese_spacy_streamlit_sample
-test
+## 日本語用spacy_streamlitのサンプルコード
+詳細はjapanese_spacy_streamlit_sample.pyを参照方。
